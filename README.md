@@ -61,7 +61,7 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [www.linkedin.com/in/apeksha-tiwari](http://www.linkedin.com/in/apeksha-tiwari)
+* 💼 LinkedIn: [www.linkedin.com/in/apeksha-tiwari-115a86259](https://www.linkedin.com/in/apeksha-tiwari-115a86259)
 * 📧 Email: [apekshatiwari01@gmail.com](mailto:apekshatiwari01@gmail.com)
 
 ---
