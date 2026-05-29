@@ -38,6 +38,14 @@
 * Implemented semantic retrieval using FAISS and Sentence Transformers
 * Built natural language to SQL generation for MySQL and CSV datasets
 
+### 🔹 AI for Healthcare: Skin Cancer Detection
+
+* Developed a deep learning-based skin cancer detection system using dermoscopic images
+* Implemented and compared ResNet, EfficientNet, and Vision Transformer (ViT) architectures
+* Applied image preprocessing, augmentation, and transfer learning techniques
+* Integrated Grad-CAM for model interpretability and explainable AI
+* Built a Flask-based web application for real-time skin lesion classification
+* Utilized the HAM10000 dataset for training and evaluation
 
 ### 🔹 C-Lite Compiler
 
